@@ -1,0 +1,995 @@
+{
+  "sets": [
+    {
+      "id": "greetings",
+      "name": "Greetings & Introductions",
+      "level": "A2",
+      "words": [
+        {
+          "word": "你好",
+          "pinyin": "nǐ hǎo",
+          "zhuyin": "ㄋㄧˇ ㄏㄠˇ",
+          "definition": "hello; hi"
+        },
+        {
+          "word": "謝謝",
+          "pinyin": "xiè xiè",
+          "zhuyin": "ㄒㄧㄝˋ ㄒㄧㄝˋ",
+          "definition": "thank you"
+        },
+        {
+          "word": "對不起",
+          "pinyin": "duì bù qǐ",
+          "zhuyin": "ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ",
+          "definition": "sorry; I'm sorry"
+        },
+        {
+          "word": "沒關係",
+          "pinyin": "méi guān xì",
+          "zhuyin": "ㄇㄟˊ ㄍㄨㄢ ㄒㄧˋ",
+          "definition": "it's okay; never mind"
+        },
+        {
+          "word": "再見",
+          "pinyin": "zài jiàn",
+          "zhuyin": "ㄗㄞˋ ㄐㄧㄢˋ",
+          "definition": "goodbye; see you again"
+        },
+        {
+          "word": "早安",
+          "pinyin": "zǎo ān",
+          "zhuyin": "ㄗㄠˇ ㄢ",
+          "definition": "good morning"
+        },
+        {
+          "word": "晚安",
+          "pinyin": "wǎn ān",
+          "zhuyin": "ㄨㄢˇ ㄢ",
+          "definition": "good night"
+        },
+        {
+          "word": "請問",
+          "pinyin": "qǐng wèn",
+          "zhuyin": "ㄑㄧㄥˇ ㄨㄣˋ",
+          "definition": "excuse me; may I ask"
+        },
+        {
+          "word": "我叫",
+          "pinyin": "wǒ jiào",
+          "zhuyin": "ㄨㄛˇ ㄐㄧㄠˋ",
+          "definition": "my name is"
+        },
+        {
+          "word": "很高興",
+          "pinyin": "hěn gāo xìng",
+          "zhuyin": "ㄏㄣˇ ㄍㄠ ㄒㄧㄥˋ",
+          "definition": "very pleased; delighted"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family Members",
+      "level": "A2",
+      "words": [
+        {
+          "word": "爸爸",
+          "pinyin": "bà ba",
+          "zhuyin": "ㄅㄚˋ ㄅㄚ",
+          "definition": "dad; father"
+        },
+        {
+          "word": "媽媽",
+          "pinyin": "mā ma",
+          "zhuyin": "ㄇㄚ ㄇㄚ",
+          "definition": "mom; mother"
+        },
+        {
+          "word": "哥哥",
+          "pinyin": "gē ge",
+          "zhuyin": "ㄍㄜ ㄍㄜ",
+          "definition": "older brother"
+        },
+        {
+          "word": "姐姐",
+          "pinyin": "jiě jiě",
+          "zhuyin": "ㄐㄧㄝˇ ㄐㄧㄝˇ",
+          "definition": "older sister"
+        },
+        {
+          "word": "弟弟",
+          "pinyin": "dì di",
+          "zhuyin": "ㄉㄧˋ ㄉㄧ",
+          "definition": "younger brother"
+        },
+        {
+          "word": "妹妹",
+          "pinyin": "mèi mèi",
+          "zhuyin": "ㄇㄟˋ ㄇㄟˋ",
+          "definition": "younger sister"
+        },
+        {
+          "word": "祖父",
+          "pinyin": "zǔ fù",
+          "zhuyin": "ㄗㄨˇ ㄈㄨˋ",
+          "definition": "paternal grandfather"
+        },
+        {
+          "word": "祖母",
+          "pinyin": "zǔ mǔ",
+          "zhuyin": "ㄗㄨˇ ㄇㄨˇ",
+          "definition": "paternal grandmother"
+        },
+        {
+          "word": "外公",
+          "pinyin": "wài gōng",
+          "zhuyin": "ㄨㄞˋ ㄍㄨㄥ",
+          "definition": "maternal grandfather"
+        },
+        {
+          "word": "外婆",
+          "pinyin": "wài pó",
+          "zhuyin": "ㄨㄞˋ ㄆㄛˊ",
+          "definition": "maternal grandmother"
+        },
+        {
+          "word": "家人",
+          "pinyin": "jiā rén",
+          "zhuyin": "ㄐㄧㄚ ㄖㄣˊ",
+          "definition": "family members"
+        },
+        {
+          "word": "兒子",
+          "pinyin": "ér zi",
+          "zhuyin": "ㄦˊ ㄗ",
+          "definition": "son"
+        },
+        {
+          "word": "女兒",
+          "pinyin": "nǚ ér",
+          "zhuyin": "ㄋㄩˇ ㄦˊ",
+          "definition": "daughter"
+        },
+        {
+          "word": "丈夫",
+          "pinyin": "zhàng fū",
+          "zhuyin": "ㄓㄤˋ ㄈㄨ",
+          "definition": "husband"
+        },
+        {
+          "word": "太太",
+          "pinyin": "tài tai",
+          "zhuyin": "ㄊㄞˋ ㄊㄞ",
+          "definition": "wife; Mrs."
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food & Dining",
+      "level": "A2",
+      "words": [
+        {
+          "word": "早餐",
+          "pinyin": "zǎo cān",
+          "zhuyin": "ㄗㄠˇ ㄘㄢ",
+          "definition": "breakfast"
+        },
+        {
+          "word": "午餐",
+          "pinyin": "wǔ cān",
+          "zhuyin": "ㄨˇ ㄘㄢ",
+          "definition": "lunch"
+        },
+        {
+          "word": "晚餐",
+          "pinyin": "wǎn cān",
+          "zhuyin": "ㄨㄢˇ ㄘㄢ",
+          "definition": "dinner; supper"
+        },
+        {
+          "word": "牛肉麵",
+          "pinyin": "niú ròu miàn",
+          "zhuyin": "ㄋㄧㄡˊ ㄖㄡˋ ㄇㄧㄢˋ",
+          "definition": "beef noodle soup"
+        },
+        {
+          "word": "炒飯",
+          "pinyin": "chǎo fàn",
+          "zhuyin": "ㄔㄠˇ ㄈㄢˋ",
+          "definition": "fried rice"
+        },
+        {
+          "word": "小籠包",
+          "pinyin": "xiǎo lóng bāo",
+          "zhuyin": "ㄒㄧㄠˇ ㄌㄨㄥˊ ㄅㄠ",
+          "definition": "soup dumplings"
+        },
+        {
+          "word": "滷肉飯",
+          "pinyin": "lǔ ròu fàn",
+          "zhuyin": "ㄌㄨˇ ㄖㄡˋ ㄈㄢˋ",
+          "definition": "braised pork rice"
+        },
+        {
+          "word": "臭豆腐",
+          "pinyin": "chòu dòu fǔ",
+          "zhuyin": "ㄔㄡˋ ㄉㄡˋ ㄈㄨˇ",
+          "definition": "stinky tofu"
+        },
+        {
+          "word": "珍珠奶茶",
+          "pinyin": "zhēn zhū nǎi chá",
+          "zhuyin": "ㄓㄣ ㄓㄨ ㄋㄞˇ ㄔㄚˊ",
+          "definition": "bubble milk tea"
+        },
+        {
+          "word": "豆漿",
+          "pinyin": "dòu jiāng",
+          "zhuyin": "ㄉㄡˋ ㄐㄧㄤ",
+          "definition": "soy milk"
+        },
+        {
+          "word": "油條",
+          "pinyin": "yóu tiáo",
+          "zhuyin": "ㄧㄡˊ ㄊㄧㄠˊ",
+          "definition": "deep-fried dough stick"
+        },
+        {
+          "word": "蚵仔煎",
+          "pinyin": "é zǎi jiān",
+          "zhuyin": "ㄜˊ ㄗㄞˇ ㄐㄧㄢ",
+          "definition": "oyster omelette"
+        },
+        {
+          "word": "鍋貼",
+          "pinyin": "guō tiē",
+          "zhuyin": "ㄍㄨㄛ ㄊㄧㄝ",
+          "definition": "pan-fried dumplings"
+        },
+        {
+          "word": "菜單",
+          "pinyin": "cài dān",
+          "zhuyin": "ㄘㄞˋ ㄉㄢ",
+          "definition": "menu"
+        },
+        {
+          "word": "結帳",
+          "pinyin": "jié zhàng",
+          "zhuyin": "ㄐㄧㄝˊ ㄓㄤˋ",
+          "definition": "to pay the bill; check out"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "name": "Transportation",
+      "level": "A2",
+      "words": [
+        {
+          "word": "捷運",
+          "pinyin": "jié yùn",
+          "zhuyin": "ㄐㄧㄝˊ ㄩㄣˋ",
+          "definition": "MRT; metro"
+        },
+        {
+          "word": "公車",
+          "pinyin": "gōng chē",
+          "zhuyin": "ㄍㄨㄥ ㄔㄜ",
+          "definition": "public bus"
+        },
+        {
+          "word": "火車",
+          "pinyin": "huǒ chē",
+          "zhuyin": "ㄏㄨㄛˇ ㄔㄜ",
+          "definition": "train"
+        },
+        {
+          "word": "高鐵",
+          "pinyin": "gāo tiě",
+          "zhuyin": "ㄍㄠ ㄊㄧㄝˇ",
+          "definition": "high-speed rail (HSR)"
+        },
+        {
+          "word": "計程車",
+          "pinyin": "jì chéng chē",
+          "zhuyin": "ㄐㄧˋ ㄔㄥˊ ㄔㄜ",
+          "definition": "taxi"
+        },
+        {
+          "word": "腳踏車",
+          "pinyin": "jiǎo tà chē",
+          "zhuyin": "ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ",
+          "definition": "bicycle"
+        },
+        {
+          "word": "摩托車",
+          "pinyin": "mó tuō chē",
+          "zhuyin": "ㄇㄛˊ ㄊㄨㄛ ㄔㄜ",
+          "definition": "motorcycle; scooter"
+        },
+        {
+          "word": "飛機",
+          "pinyin": "fēi jī",
+          "zhuyin": "ㄈㄟ ㄐㄧ",
+          "definition": "airplane"
+        },
+        {
+          "word": "機場",
+          "pinyin": "jī chǎng",
+          "zhuyin": "ㄐㄧ ㄔㄤˇ",
+          "definition": "airport"
+        },
+        {
+          "word": "車站",
+          "pinyin": "chē zhàn",
+          "zhuyin": "ㄔㄜ ㄓㄢˋ",
+          "definition": "train/bus station; stop"
+        },
+        {
+          "word": "月台",
+          "pinyin": "yuè tái",
+          "zhuyin": "ㄩㄝˋ ㄊㄞˊ",
+          "definition": "platform (train/MRT)"
+        },
+        {
+          "word": "悠遊卡",
+          "pinyin": "yōu yóu kǎ",
+          "zhuyin": "ㄧㄡ ㄧㄡˊ ㄎㄚˇ",
+          "definition": "EasyCard (Taiwan transit card)"
+        },
+        {
+          "word": "上車",
+          "pinyin": "shàng chē",
+          "zhuyin": "ㄕㄤˋ ㄔㄜ",
+          "definition": "to board a vehicle"
+        },
+        {
+          "word": "下車",
+          "pinyin": "xià chē",
+          "zhuyin": "ㄒㄧㄚˋ ㄔㄜ",
+          "definition": "to get off a vehicle"
+        },
+        {
+          "word": "轉乘",
+          "pinyin": "zhuǎn chéng",
+          "zhuyin": "ㄓㄨㄢˇ ㄔㄥˊ",
+          "definition": "to transfer (transit)"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "name": "Time Expressions",
+      "level": "A2",
+      "words": [
+        {
+          "word": "今天",
+          "pinyin": "jīn tiān",
+          "zhuyin": "ㄐㄧㄣ ㄊㄧㄢ",
+          "definition": "today"
+        },
+        {
+          "word": "明天",
+          "pinyin": "míng tiān",
+          "zhuyin": "ㄇㄧㄥˊ ㄊㄧㄢ",
+          "definition": "tomorrow"
+        },
+        {
+          "word": "昨天",
+          "pinyin": "zuó tiān",
+          "zhuyin": "ㄗㄨㄛˊ ㄊㄧㄢ",
+          "definition": "yesterday"
+        },
+        {
+          "word": "上午",
+          "pinyin": "shàng wǔ",
+          "zhuyin": "ㄕㄤˋ ㄨˇ",
+          "definition": "morning; AM"
+        },
+        {
+          "word": "下午",
+          "pinyin": "xià wǔ",
+          "zhuyin": "ㄒㄧㄚˋ ㄨˇ",
+          "definition": "afternoon; PM"
+        },
+        {
+          "word": "晚上",
+          "pinyin": "wǎn shàng",
+          "zhuyin": "ㄨㄢˇ ㄕㄤˋ",
+          "definition": "evening; night"
+        },
+        {
+          "word": "現在",
+          "pinyin": "xiàn zài",
+          "zhuyin": "ㄒㄧㄢˋ ㄗㄞˋ",
+          "definition": "now; at present"
+        },
+        {
+          "word": "以後",
+          "pinyin": "yǐ hòu",
+          "zhuyin": "ㄧˇ ㄏㄡˋ",
+          "definition": "after; later; in the future"
+        },
+        {
+          "word": "以前",
+          "pinyin": "yǐ qián",
+          "zhuyin": "ㄧˇ ㄑㄧㄢˊ",
+          "definition": "before; in the past; ago"
+        },
+        {
+          "word": "這個週末",
+          "pinyin": "zhè gè zhōu mò",
+          "zhuyin": "ㄓㄜˋ ㄍㄜˋ ㄓㄡ ㄇㄛˋ",
+          "definition": "this weekend"
+        },
+        {
+          "word": "下個月",
+          "pinyin": "xià gè yuè",
+          "zhuyin": "ㄒㄧㄚˋ ㄍㄜˋ ㄩㄝˋ",
+          "definition": "next month"
+        },
+        {
+          "word": "每天",
+          "pinyin": "měi tiān",
+          "zhuyin": "ㄇㄟˇ ㄊㄧㄢ",
+          "definition": "every day"
+        },
+        {
+          "word": "有時候",
+          "pinyin": "yǒu shí hòu",
+          "zhuyin": "ㄧㄡˇ ㄕˊ ㄏㄡˋ",
+          "definition": "sometimes"
+        },
+        {
+          "word": "一直",
+          "pinyin": "yī zhí",
+          "zhuyin": "ㄧ ㄓˊ",
+          "definition": "always; all along; continuously"
+        },
+        {
+          "word": "剛才",
+          "pinyin": "gāng cái",
+          "zhuyin": "ㄍㄤ ㄘㄞˊ",
+          "definition": "just now; a moment ago"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "level": "A2",
+      "words": [
+        {
+          "word": "百貨公司",
+          "pinyin": "bǎi huò gōng sī",
+          "zhuyin": "ㄅㄞˇ ㄏㄨㄛˋ ㄍㄨㄥ ㄙ",
+          "definition": "department store"
+        },
+        {
+          "word": "便利商店",
+          "pinyin": "biàn lì shāng diàn",
+          "zhuyin": "ㄅㄧㄢˋ ㄌㄧˋ ㄕㄤ ㄉㄧㄢˋ",
+          "definition": "convenience store"
+        },
+        {
+          "word": "夜市",
+          "pinyin": "yè shì",
+          "zhuyin": "ㄧㄝˋ ㄕˋ",
+          "definition": "night market"
+        },
+        {
+          "word": "多少錢",
+          "pinyin": "duō shǎo qián",
+          "zhuyin": "ㄉㄨㄛ ㄕㄠˇ ㄑㄧㄢˊ",
+          "definition": "how much does it cost?"
+        },
+        {
+          "word": "打折",
+          "pinyin": "dǎ zhé",
+          "zhuyin": "ㄉㄚˇ ㄓㄜˊ",
+          "definition": "to discount; on sale"
+        },
+        {
+          "word": "特價",
+          "pinyin": "tè jià",
+          "zhuyin": "ㄊㄜˋ ㄐㄧㄚˋ",
+          "definition": "special price; sale price"
+        },
+        {
+          "word": "找錢",
+          "pinyin": "zhǎo qián",
+          "zhuyin": "ㄓㄠˇ ㄑㄧㄢˊ",
+          "definition": "to give change"
+        },
+        {
+          "word": "信用卡",
+          "pinyin": "xìn yòng kǎ",
+          "zhuyin": "ㄒㄧㄣˋ ㄩㄥˋ ㄎㄚˇ",
+          "definition": "credit card"
+        },
+        {
+          "word": "收據",
+          "pinyin": "shōu jù",
+          "zhuyin": "ㄕㄡ ㄐㄩˋ",
+          "definition": "receipt"
+        },
+        {
+          "word": "試穿",
+          "pinyin": "shì chuān",
+          "zhuyin": "ㄕˋ ㄔㄨㄢ",
+          "definition": "to try on (clothes)"
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "level": "A2",
+      "words": [
+        {
+          "word": "晴天",
+          "pinyin": "qíng tiān",
+          "zhuyin": "ㄑㄧㄥˊ ㄊㄧㄢ",
+          "definition": "sunny day; clear sky"
+        },
+        {
+          "word": "下雨",
+          "pinyin": "xià yǔ",
+          "zhuyin": "ㄒㄧㄚˋ ㄩˇ",
+          "definition": "to rain; raining"
+        },
+        {
+          "word": "颱風",
+          "pinyin": "tái fēng",
+          "zhuyin": "ㄊㄞˊ ㄈㄥ",
+          "definition": "typhoon"
+        },
+        {
+          "word": "溫度",
+          "pinyin": "wēn dù",
+          "zhuyin": "ㄨㄣ ㄉㄨˋ",
+          "definition": "temperature"
+        },
+        {
+          "word": "天氣預報",
+          "pinyin": "tiān qì yù bào",
+          "zhuyin": "ㄊㄧㄢ ㄑㄧˋ ㄩˋ ㄅㄠˋ",
+          "definition": "weather forecast"
+        },
+        {
+          "word": "涼快",
+          "pinyin": "liáng kuài",
+          "zhuyin": "ㄌㄧㄤˊ ㄎㄨㄞˋ",
+          "definition": "pleasantly cool; refreshing"
+        },
+        {
+          "word": "悶熱",
+          "pinyin": "mēn rè",
+          "zhuyin": "ㄇㄣ ㄖㄜˋ",
+          "definition": "hot and stuffy; muggy"
+        },
+        {
+          "word": "下雪",
+          "pinyin": "xià xuě",
+          "zhuyin": "ㄒㄧㄚˋ ㄒㄩㄝˇ",
+          "definition": "to snow; snowing"
+        },
+        {
+          "word": "起霧",
+          "pinyin": "qǐ wù",
+          "zhuyin": "ㄑㄧˇ ㄨˋ",
+          "definition": "to become foggy"
+        },
+        {
+          "word": "打雷",
+          "pinyin": "dǎ léi",
+          "zhuyin": "ㄉㄚˇ ㄌㄟˊ",
+          "definition": "thunder; to thunder"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Health & Body",
+      "level": "A2",
+      "words": [
+        {
+          "word": "頭痛",
+          "pinyin": "tóu tòng",
+          "zhuyin": "ㄊㄡˊ ㄊㄨㄥˋ",
+          "definition": "headache"
+        },
+        {
+          "word": "發燒",
+          "pinyin": "fā shāo",
+          "zhuyin": "ㄈㄚ ㄕㄠ",
+          "definition": "to have a fever"
+        },
+        {
+          "word": "感冒",
+          "pinyin": "gǎn mào",
+          "zhuyin": "ㄍㄢˇ ㄇㄠˋ",
+          "definition": "cold; to have a cold"
+        },
+        {
+          "word": "看醫生",
+          "pinyin": "kàn yī shēng",
+          "zhuyin": "ㄎㄢˋ ㄧ ㄕㄥ",
+          "definition": "to see a doctor"
+        },
+        {
+          "word": "藥局",
+          "pinyin": "yào jú",
+          "zhuyin": "ㄧㄠˋ ㄐㄩˊ",
+          "definition": "pharmacy; drugstore"
+        },
+        {
+          "word": "健保卡",
+          "pinyin": "jiàn bǎo kǎ",
+          "zhuyin": "ㄐㄧㄢˋ ㄅㄠˇ ㄎㄚˇ",
+          "definition": "National Health Insurance card"
+        },
+        {
+          "word": "過敏",
+          "pinyin": "guò mǐn",
+          "zhuyin": "ㄍㄨㄛˋ ㄇㄧㄣˇ",
+          "definition": "allergy; allergic"
+        },
+        {
+          "word": "休息",
+          "pinyin": "xiū xi",
+          "zhuyin": "ㄒㄧㄡ ㄒㄧ",
+          "definition": "to rest; rest"
+        },
+        {
+          "word": "運動",
+          "pinyin": "yùn dòng",
+          "zhuyin": "ㄩㄣˋ ㄉㄨㄥˋ",
+          "definition": "exercise; sports"
+        },
+        {
+          "word": "睡覺",
+          "pinyin": "shuì jiào",
+          "zhuyin": "ㄕㄨㄟˋ ㄐㄧㄠˋ",
+          "definition": "to sleep; to go to bed"
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "name": "School & Study",
+      "level": "A2",
+      "words": [
+        {
+          "word": "大學",
+          "pinyin": "dà xué",
+          "zhuyin": "ㄉㄚˋ ㄒㄩㄝˊ",
+          "definition": "university; college"
+        },
+        {
+          "word": "圖書館",
+          "pinyin": "tú shū guǎn",
+          "zhuyin": "ㄊㄨˊ ㄕㄨ ㄍㄨㄢˇ",
+          "definition": "library"
+        },
+        {
+          "word": "作業",
+          "pinyin": "zuò yè",
+          "zhuyin": "ㄗㄨㄛˋ ㄧㄝˋ",
+          "definition": "homework; assignment"
+        },
+        {
+          "word": "考試",
+          "pinyin": "kǎo shì",
+          "zhuyin": "ㄎㄠˇ ㄕˋ",
+          "definition": "exam; test"
+        },
+        {
+          "word": "成績",
+          "pinyin": "chéng jì",
+          "zhuyin": "ㄔㄥˊ ㄐㄧˋ",
+          "definition": "grades; academic results"
+        },
+        {
+          "word": "同學",
+          "pinyin": "tóng xué",
+          "zhuyin": "ㄊㄨㄥˊ ㄒㄩㄝˊ",
+          "definition": "classmate; fellow student"
+        },
+        {
+          "word": "老師",
+          "pinyin": "lǎo shī",
+          "zhuyin": "ㄌㄠˇ ㄕ",
+          "definition": "teacher"
+        },
+        {
+          "word": "教室",
+          "pinyin": "jiào shì",
+          "zhuyin": "ㄐㄧㄠˋ ㄕˋ",
+          "definition": "classroom"
+        },
+        {
+          "word": "畢業",
+          "pinyin": "bì yè",
+          "zhuyin": "ㄅㄧˋ ㄧㄝˋ",
+          "definition": "to graduate; graduation"
+        },
+        {
+          "word": "留學",
+          "pinyin": "liú xué",
+          "zhuyin": "ㄌㄧㄡˊ ㄒㄩㄝˊ",
+          "definition": "to study abroad"
+        }
+      ]
+    },
+    {
+      "id": "directions",
+      "name": "Directions & Places",
+      "level": "A2",
+      "words": [
+        {
+          "word": "左邊",
+          "pinyin": "zuǒ biān",
+          "zhuyin": "ㄗㄨㄛˇ ㄅㄧㄢ",
+          "definition": "left side"
+        },
+        {
+          "word": "右邊",
+          "pinyin": "yòu biān",
+          "zhuyin": "ㄧㄡˋ ㄅㄧㄢ",
+          "definition": "right side"
+        },
+        {
+          "word": "前面",
+          "pinyin": "qián miàn",
+          "zhuyin": "ㄑㄧㄢˊ ㄇㄧㄢˋ",
+          "definition": "in front; ahead"
+        },
+        {
+          "word": "後面",
+          "pinyin": "hòu miàn",
+          "zhuyin": "ㄏㄡˋ ㄇㄧㄢˋ",
+          "definition": "behind; at the back"
+        },
+        {
+          "word": "旁邊",
+          "pinyin": "páng biān",
+          "zhuyin": "ㄆㄤˊ ㄅㄧㄢ",
+          "definition": "beside; next to"
+        },
+        {
+          "word": "對面",
+          "pinyin": "duì miàn",
+          "zhuyin": "ㄉㄨㄟˋ ㄇㄧㄢˋ",
+          "definition": "opposite; across"
+        },
+        {
+          "word": "附近",
+          "pinyin": "fù jìn",
+          "zhuyin": "ㄈㄨˋ ㄐㄧㄣˋ",
+          "definition": "nearby; in the vicinity"
+        },
+        {
+          "word": "路口",
+          "pinyin": "lù kǒu",
+          "zhuyin": "ㄌㄨˋ ㄎㄡˇ",
+          "definition": "intersection; junction"
+        },
+        {
+          "word": "地圖",
+          "pinyin": "dì tú",
+          "zhuyin": "ㄉㄧˋ ㄊㄨˊ",
+          "definition": "map"
+        },
+        {
+          "word": "怎麼走",
+          "pinyin": "zěn me zǒu",
+          "zhuyin": "ㄗㄣˇ ㄇㄜ ㄗㄡˇ",
+          "definition": "how do I get there?"
+        }
+      ]
+    },
+    {
+      "id": "work",
+      "name": "Work & Careers",
+      "level": "B1",
+      "words": [
+        {
+          "word": "公司",
+          "pinyin": "gōng sī",
+          "zhuyin": "ㄍㄨㄥ ㄙ",
+          "definition": "company; corporation"
+        },
+        {
+          "word": "老闆",
+          "pinyin": "lǎo bǎn",
+          "zhuyin": "ㄌㄠˇ ㄅㄢˇ",
+          "definition": "boss; employer"
+        },
+        {
+          "word": "同事",
+          "pinyin": "tóng shì",
+          "zhuyin": "ㄊㄨㄥˊ ㄕˋ",
+          "definition": "colleague; coworker"
+        },
+        {
+          "word": "上班",
+          "pinyin": "shàng bān",
+          "zhuyin": "ㄕㄤˋ ㄅㄢ",
+          "definition": "to go to work; working hours"
+        },
+        {
+          "word": "下班",
+          "pinyin": "xià bān",
+          "zhuyin": "ㄒㄧㄚˋ ㄅㄢ",
+          "definition": "to get off work"
+        },
+        {
+          "word": "薪水",
+          "pinyin": "xīn shuǐ",
+          "zhuyin": "ㄒㄧㄣ ㄕㄨㄟˇ",
+          "definition": "salary; wages"
+        },
+        {
+          "word": "開會",
+          "pinyin": "kāi huì",
+          "zhuyin": "ㄎㄞ ㄏㄨㄟˋ",
+          "definition": "to have a meeting"
+        },
+        {
+          "word": "面試",
+          "pinyin": "miàn shì",
+          "zhuyin": "ㄇㄧㄢˋ ㄕˋ",
+          "definition": "job interview"
+        },
+        {
+          "word": "履歷",
+          "pinyin": "lǚ lì",
+          "zhuyin": "ㄌㄩˇ ㄌㄧˋ",
+          "definition": "resume; CV"
+        },
+        {
+          "word": "加班",
+          "pinyin": "jiā bān",
+          "zhuyin": "ㄐㄧㄚ ㄅㄢ",
+          "definition": "to work overtime"
+        }
+      ]
+    },
+    {
+      "id": "hobbies",
+      "name": "Hobbies & Leisure",
+      "level": "A2",
+      "words": [
+        {
+          "word": "看電影",
+          "pinyin": "kàn diàn yǐng",
+          "zhuyin": "ㄎㄢˋ ㄉㄧㄢˋ ㄧㄥˇ",
+          "definition": "to watch a movie"
+        },
+        {
+          "word": "聽音樂",
+          "pinyin": "tīng yīn yuè",
+          "zhuyin": "ㄊㄧㄥ ㄧㄣ ㄩㄝˋ",
+          "definition": "to listen to music"
+        },
+        {
+          "word": "打籃球",
+          "pinyin": "dǎ lán qiú",
+          "zhuyin": "ㄉㄚˇ ㄌㄢˊ ㄑㄧㄡˊ",
+          "definition": "to play basketball"
+        },
+        {
+          "word": "爬山",
+          "pinyin": "pá shān",
+          "zhuyin": "ㄆㄚˊ ㄕㄢ",
+          "definition": "to hike; to climb a mountain"
+        },
+        {
+          "word": "旅行",
+          "pinyin": "lǚ xíng",
+          "zhuyin": "ㄌㄩˇ ㄒㄧㄥˊ",
+          "definition": "to travel; travel"
+        },
+        {
+          "word": "畫畫",
+          "pinyin": "huà huà",
+          "zhuyin": "ㄏㄨㄚˋ ㄏㄨㄚˋ",
+          "definition": "to draw; to paint"
+        },
+        {
+          "word": "彈鋼琴",
+          "pinyin": "tán gāng qín",
+          "zhuyin": "ㄊㄢˊ ㄍㄤ ㄑㄧㄣˊ",
+          "definition": "to play piano"
+        },
+        {
+          "word": "游泳",
+          "pinyin": "yóu yǒng",
+          "zhuyin": "ㄧㄡˊ ㄩㄥˇ",
+          "definition": "to swim; swimming"
+        },
+        {
+          "word": "打電動",
+          "pinyin": "dǎ diàn dòng",
+          "zhuyin": "ㄉㄚˇ ㄉㄧㄢˋ ㄉㄨㄥˋ",
+          "definition": "to play video games"
+        },
+        {
+          "word": "逛街",
+          "pinyin": "guàng jiē",
+          "zhuyin": "ㄍㄨㄤˋ ㄐㄧㄝ",
+          "definition": "to go window shopping; to stroll"
+        }
+      ]
+    },
+    {
+      "id": "classifiers",
+      "name": "Measure Words (量詞)",
+      "level": "A2",
+      "words": [
+        {
+          "word": "一個人",
+          "pinyin": "yī gè rén",
+          "zhuyin": "ㄧ ㄍㄜˋ ㄖㄣˊ",
+          "definition": "one person (個 = general classifier)"
+        },
+        {
+          "word": "一本書",
+          "pinyin": "yī běn shū",
+          "zhuyin": "ㄧ ㄅㄣˇ ㄕㄨ",
+          "definition": "one book (本 for bound things)"
+        },
+        {
+          "word": "一張紙",
+          "pinyin": "yī zhāng zhǐ",
+          "zhuyin": "ㄧ ㄓㄤ ㄓˇ",
+          "definition": "one piece of paper (張 for flat things)"
+        },
+        {
+          "word": "一隻狗",
+          "pinyin": "yī zhī gǒu",
+          "zhuyin": "ㄧ ㄓ ㄍㄡˇ",
+          "definition": "one dog (隻 for animals)"
+        },
+        {
+          "word": "一條魚",
+          "pinyin": "yī tiáo yú",
+          "zhuyin": "ㄧ ㄊㄧㄠˊ ㄩˊ",
+          "definition": "one fish (條 for long, flexible things)"
+        },
+        {
+          "word": "一杯水",
+          "pinyin": "yī bēi shuǐ",
+          "zhuyin": "ㄧ ㄅㄟ ㄕㄨㄟˇ",
+          "definition": "one glass of water (杯 for cups/glasses)"
+        },
+        {
+          "word": "一碗飯",
+          "pinyin": "yī wǎn fàn",
+          "zhuyin": "ㄧ ㄨㄢˇ ㄈㄢˋ",
+          "definition": "one bowl of rice (碗 for bowls)"
+        },
+        {
+          "word": "一件衣服",
+          "pinyin": "yī jiàn yī fú",
+          "zhuyin": "ㄧ ㄐㄧㄢˋ ㄧ ㄈㄨˊ",
+          "definition": "one piece of clothing (件 for garments)"
+        },
+        {
+          "word": "一雙鞋",
+          "pinyin": "yī shuāng xié",
+          "zhuyin": "ㄧ ㄕㄨㄤ ㄒㄧㄝˊ",
+          "definition": "one pair of shoes (雙 for pairs)"
+        },
+        {
+          "word": "一棟房子",
+          "pinyin": "yī dòng fáng zi",
+          "zhuyin": "ㄧ ㄉㄨㄥˋ ㄈㄤˊ ㄗ",
+          "definition": "one building (棟 for buildings)"
+        }
+      ]
+    }
+  ]
+}
